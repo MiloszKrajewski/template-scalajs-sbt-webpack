@@ -1,0 +1,10 @@
+*.log
+*.bak
+node_modules/
+python_modules/
+project/project/
+project/target/
+target/
+build/
+out/
+.idea/workspace.xml

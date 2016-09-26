@@ -1,0 +1,9 @@
+{
+    "Webpack": "nx webpack --watch",
+    "Server": "nx http-server ./out",
+    "Scala.js": {
+        "folder": "./src/main/scala",
+        "include": "*.scala",
+        "command": "sbt fastOptJS"
+    }
+}

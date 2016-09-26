@@ -1,0 +1,1 @@
+@call %~dp0\sbt\bin\sbt.bat %*
