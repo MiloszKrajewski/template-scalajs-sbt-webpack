@@ -26,6 +26,7 @@ Scripts:
 Renaming (files that contain project name):
 * ``package.json``
 * ``build.sbt``
+* ``webpack.config.js`` (check resolve.alias section)
 * ``src/html/index.html``
 
 Renaming (if you intend to use IntelliJ)
